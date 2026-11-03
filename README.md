@@ -18,6 +18,7 @@
 <a href="https://www.instagram.com/cylogicsoftwareofficall/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@cylogicsoftwareofficall-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
 <a href="https://www.facebook.com/profile.php?id=61596032317881"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Cy_Logic_Software-0866FF?style=flat-square&logo=facebook&logoColor=white"></a>
 <a href="https://x.com/cylogicsoftware"><img alt="X" src="https://img.shields.io/badge/X-@cylogicsoftware-000000?style=flat-square&logo=x&logoColor=white"></a>
+<a href="https://www.pinterest.com/cylogicsoftware/"><img alt="Pinterest" src="https://img.shields.io/badge/Pinterest-@cylogicsoftware-E60023?style=flat-square&logo=pinterest&logoColor=white"></a>
 <a href="https://github.com/cylogicsoftware"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-@cylogicsoftware-24292f?style=flat-square&logo=github&logoColor=white"></a>
 
 <br><br>
@@ -129,6 +130,7 @@
 | Instagram | [@cylogicsoftwareofficall](https://www.instagram.com/cylogicsoftwareofficall/) |
 | Facebook | [Cy Logic Software](https://www.facebook.com/profile.php?id=61596032317881) |
 | X (Twitter) | [@cylogicsoftware](https://x.com/cylogicsoftware) |
+| Pinterest | [@cylogicsoftware](https://www.pinterest.com/cylogicsoftware/) |
 | GitHub | [@cylogicsoftware](https://github.com/cylogicsoftware) |
 | ✉️ Email | [info@cylogicsoftware.com](mailto:info@cylogicsoftware.com) |
 
