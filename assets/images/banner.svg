@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="t d">
+  <title id="t">CYLOGIC SOFTWARE</title>
+  <desc id="d">AI Solutions, ERP Systems, Custom Software Development and Digital Transformation</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#030712"/>
+      <stop offset=".55" stop-color="#071636"/>
+      <stop offset="1" stop-color="#0b0f2e"/>
+    </linearGradient>
+    <radialGradient id="g1" cx=".18" cy=".1" r=".55">
+      <stop offset="0" stop-color="#2f8cff" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#2f8cff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="g2" cx=".9" cy="1" r=".5">
+      <stop offset="0" stop-color="#7b5cff" stop-opacity=".45"/>
+      <stop offset="1" stop-color="#7b5cff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset=".55" stop-color="#19d3ff"/>
+      <stop offset="1" stop-color="#2f8cff"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#78aaff" stroke-opacity=".07"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="320" fill="url(#bg)"/>
+  <rect width="1280" height="320" fill="url(#grid)"/>
+  <rect width="1280" height="320" fill="url(#g1)"/>
+  <rect width="1280" height="320" fill="url(#g2)"/>
+  <g fill="none" stroke="#19d3ff" stroke-opacity=".35" stroke-width="1.5">
+    <path d="M980 60h120l40 40h100"/>
+    <path d="M1010 250h90l30-30h120"/>
+    <path d="M40 270h140l30-30h80"/>
+  </g>
+  <g fill="#19d3ff">
+    <circle cx="1240" cy="100" r="4"/><circle cx="1250" cy="220" r="4"/><circle cx="290" cy="240" r="4"/>
+  </g>
+  <text x="640" y="150" text-anchor="middle" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="78" font-weight="800" letter-spacing="6" fill="url(#txt)">CYLOGIC SOFTWARE</text>
+  <text x="640" y="205" text-anchor="middle" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="500" fill="#c9d6f2">AI Solutions · ERP Systems · Custom Software · Digital Transformation</text>
+  <text x="640" y="250" text-anchor="middle" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" letter-spacing="3" fill="#19d3ff">GAZIMAĞUSA · NORTHERN CYPRUS · cylogicsoftware.com</text>
+</svg>
