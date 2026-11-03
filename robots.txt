@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cylogicsoftware.github.io/cylogicsoftware-official/sitemap.xml

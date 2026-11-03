@@ -1,0 +1,36 @@
+# CYLOGIC SOFTWARE – Official Digital Identity Hub
+
+> Official multilingual profile hub of Cy Logic Software (CYLOGIC SOFTWARE), a technology company based in Gazimağusa (Famagusta), Northern Cyprus, building custom software, enterprise ERP systems, AI solutions, business automation and secure IT infrastructure for businesses in Northern Cyprus and Türkiye.
+
+This GitHub Pages hub complements the company's primary website. For full, authoritative company content (services, products, projects, insights) use https://www.cylogicsoftware.com/ and its own llms.txt at https://www.cylogicsoftware.com/llms.txt.
+
+## Hub pages
+
+- [Türkçe](https://cylogicsoftware.github.io/cylogicsoftware-official/): Turkish (primary language)
+- [English](https://cylogicsoftware.github.io/cylogicsoftware-official/en/): English
+- [Русский](https://cylogicsoftware.github.io/cylogicsoftware-official/ru/): Russian
+- [فارسی](https://cylogicsoftware.github.io/cylogicsoftware-official/fa/): Persian (RTL)
+
+## Service areas
+
+- Artificial intelligence: AI-powered business solutions, AI integration, AI assistants and agents, local LLM and RAG, AI reporting and data analysis
+- ERP and enterprise software: custom ERP, financial management, accounting and reporting, inventory, HR and time & attendance, CRM and procurement
+- Custom software development: enterprise web applications, React and TypeScript, database-driven systems, web/mobile/SaaS, B2B platforms
+- Business automation and integration: process automation, API and system integrations, dashboards and BI
+- IT and digital transformation: server and cloud infrastructure, backup and monitoring, cybersecurity, business digitalization
+
+## Official channels (verified)
+
+- Website: https://www.cylogicsoftware.com/
+- Email: info@cylogicsoftware.com
+- LinkedIn: https://www.linkedin.com/company/cylogicsoftware/
+- Instagram: https://www.instagram.com/cylogicsoftwareofficall/
+- Facebook: https://www.facebook.com/profile.php?id=61596032317881
+- X (Twitter): https://x.com/cylogicsoftware
+- GitHub: https://github.com/cylogicsoftware
+
+## Machine-readable sources
+
+- [Verified profiles (JSON)](https://cylogicsoftware.github.io/cylogicsoftware-official/data/social-links.json)
+- [Sitemap](https://cylogicsoftware.github.io/cylogicsoftware-official/sitemap.xml)
+- [Source repository](https://github.com/cylogicsoftware/cylogicsoftware-official)
