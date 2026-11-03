@@ -1,0 +1,56 @@
+{
+  "$comment": "Only profiles verified as official CYLOGIC SOFTWARE accounts. Set \"verified\": false to hide a profile without deleting it. Run `python3 scripts/build.py` after editing.",
+  "lastVerified": "2026-11-03",
+  "website": "https://www.cylogicsoftware.com/",
+  "email": "info@cylogicsoftware.com",
+  "profiles": [
+    {
+      "id": "linkedin",
+      "platform": "LinkedIn",
+      "handle": "Cy Logic Software",
+      "url": "https://www.linkedin.com/company/cylogicsoftware/",
+      "icon": "assets/icons/linkedin.svg",
+      "verified": true
+    },
+    {
+      "id": "instagram",
+      "platform": "Instagram",
+      "handle": "@cylogicsoftwareofficall",
+      "url": "https://www.instagram.com/cylogicsoftwareofficall/",
+      "icon": "assets/icons/instagram.svg",
+      "verified": true
+    },
+    {
+      "id": "facebook",
+      "platform": "Facebook",
+      "handle": "Cy Logic Software",
+      "url": "https://www.facebook.com/profile.php?id=61596032317881",
+      "icon": "assets/icons/facebook.svg",
+      "verified": true
+    },
+    {
+      "id": "x",
+      "platform": "X (Twitter)",
+      "handle": "@cylogicsoftware",
+      "url": "https://x.com/cylogicsoftware",
+      "icon": "assets/icons/x.svg",
+      "verified": true
+    },
+    {
+      "id": "pinterest",
+      "platform": "Pinterest",
+      "handle": "@cylogicsoftware",
+      "url": "https://www.pinterest.com/cylogicsoftware/",
+      "icon": "assets/icons/pinterest.svg",
+      "verified": true
+    },
+    {
+      "id": "github",
+      "platform": "GitHub",
+      "handle": "@cylogicsoftware",
+      "url": "https://github.com/cylogicsoftware",
+      "icon": "assets/icons/github.svg",
+      "verified": true
+    }
+  ]
+}
