@@ -169,6 +169,7 @@ html[dir="rtl"] .tech-group h3 { letter-spacing: 0; font-size: 1rem; }
 .si-linkedin { background: #0a66c2; }
 .si-instagram { background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fd5949 45%, #d6249f 60%, #285aeb 90%); }
 .si-facebook { background: #0866ff; }
+.si-pinterest { background: #e60023; }
 .si-x { background: #000; border: 1px solid #333; }
 .si-github { background: #24292f; border: 1px solid #3d444d; }
 .social-text { display: grid; min-width: 0; }
