@@ -1,0 +1,116 @@
+{
+  "lang": "tr",
+  "locale": "tr_TR",
+  "dir": "ltr",
+  "name": "Türkçe",
+  "short": "TR",
+  "path": "",
+  "mainSite": "https://www.cylogicsoftware.com/tr",
+  "meta": {
+    "title": "CYLOGIC SOFTWARE | Resmî Dijital Kimlik Merkezi",
+    "description": "Cy Logic Software'in resmî dijital kimlik merkezi: yapay zekâ çözümleri, kurumsal ERP, özel yazılım geliştirme, iş otomasyonu ve BT altyapısı. Gazimağusa, KKTC.",
+    "ogAlt": "CYLOGIC SOFTWARE logosu"
+  },
+  "ui": {
+    "skip": "İçeriğe geç",
+    "menu": "Menü",
+    "language": "Dil seçimi",
+    "newTab": "yeni sekmede açılır",
+    "backToTop": "Başa dön"
+  },
+  "nav": {
+    "about": "Hakkımızda",
+    "services": "Hizmetler",
+    "tech": "Teknolojiler",
+    "social": "Resmî Hesaplar",
+    "contact": "İletişim",
+    "website": "Web Sitesi"
+  },
+  "hero": {
+    "eyebrow": "Resmî Dijital Kimlik Merkezi",
+    "title": "İşletmeniz için yazılım, yapay zekâ ve dijital dönüşüm",
+    "lead": "Cy Logic Software; Kuzey Kıbrıs ve Türkiye'deki işletmeler için özel yazılım, kurumsal ERP sistemleri, yapay zekâ çözümleri ve güvenli BT altyapısı geliştiren Gazimağusa merkezli bir teknoloji şirketidir.",
+    "cta": "Resmî web sitemizi ziyaret edin",
+    "cta2": "Hizmetlerimizi inceleyin",
+    "badges": ["Yapay Zekâ", "Kurumsal ERP", "Özel Yazılım", "BT Altyapısı"]
+  },
+  "about": {
+    "title": "Hakkımızda",
+    "lead": "Bir web ajansından fazlası: işletmelerin yazılım, otomasyon ve dijital dönüşüm ihtiyaçlarını uçtan uca karşılayan teknoloji ortağı.",
+    "p1": "Cy Logic Software, işletmelerin finans, operasyon, insan kaynakları ve müşteri süreçlerini tek bir dijital omurgada birleştiren çözümler tasarlar. Her projeye iş süreçlerini anlayarak başlar; ihtiyaca özel, ölçeklenebilir ve sürdürülebilir sistemler kurarız.",
+    "p2": "Modern web teknolojileri, güvenli altyapı ve yerel çalışabilen yapay zekâ çözümlerini bir araya getirerek işletmelerin verilerini kontrol altında tutmasına ve daha hızlı karar almasına yardımcı oluyoruz.",
+    "points": [
+      { "title": "İhtiyaca özel geliştirme", "text": "Hazır kalıplar yerine işletmenizin süreçlerine göre tasarlanan yazılımlar." },
+      { "title": "Güvenlik odaklı yaklaşım", "text": "Güvenli yazılım geliştirme, yedekleme ve izleme ile korunan sistemler." },
+      { "title": "Uçtan uca hizmet", "text": "Analizden yayına, entegrasyondan altyapı yönetimine kadar tek ortak." }
+    ]
+  },
+  "services": {
+    "title": "Hizmetlerimiz",
+    "lead": "İşletmenizin dijital yolculuğunun her aşaması için uzman çözümler.",
+    "more": "Detaylar web sitemizde",
+    "items": [
+      {
+        "id": "ai",
+        "title": "Yapay Zekâ Çözümleri",
+        "desc": "Yapay zekâyı iş süreçlerinize güvenli ve ölçülebilir biçimde entegre ediyoruz.",
+        "list": ["Yapay zekâ destekli iş çözümleri", "Yapay zekâ entegrasyonu", "Yapay zekâ asistanları ve ajanları", "Yerel LLM ve RAG çözümleri", "Yapay zekâ ile raporlama ve veri analizi"]
+      },
+      {
+        "id": "erp",
+        "title": "ERP ve Kurumsal Yazılım",
+        "desc": "Finans, muhasebe, stok ve insan kaynaklarını tek sistemde yöneten kurumsal yazılımlar.",
+        "list": ["Özel ERP geliştirme", "Finans yönetim sistemleri", "Muhasebe ve raporlama çözümleri", "Stok ve envanter yönetimi", "İnsan kaynakları ve puantaj yönetimi", "CRM ve satın alma süreçleri"]
+      },
+      {
+        "id": "software",
+        "title": "Özel Yazılım Geliştirme",
+        "desc": "İşinize özel, modern ve ölçeklenebilir web, mobil ve SaaS platformları.",
+        "list": ["Kurumsal web uygulamaları", "React ve TypeScript uygulamaları", "Veritabanı tabanlı iş sistemleri", "Web, mobil ve SaaS platformları", "B2B ve özel iş platformları"]
+      },
+      {
+        "id": "automation",
+        "title": "İş Otomasyonu ve Entegrasyon",
+        "desc": "Tekrarlayan işleri otomatikleştirip sistemlerinizi birbirine bağlıyoruz.",
+        "list": ["İş süreçlerinin otomasyonu", "Akıllı iş otomasyonu", "API entegrasyonları", "Sistem entegrasyonu", "Dashboard ve iş zekâsı (BI)"]
+      },
+      {
+        "id": "it",
+        "title": "BT Altyapısı ve Dijital Dönüşüm",
+        "desc": "Güvenli, izlenen ve yedeklenen altyapılarla işletmenizin dijitalleşmesini destekliyoruz.",
+        "list": ["BT altyapı çözümleri", "Sunucu ve bulut altyapısı", "Bulut ve altyapı yönetimi", "Yedekleme, izleme ve siber güvenlik", "İşletmelerin dijitalleşmesi"]
+      }
+    ]
+  },
+  "tech": {
+    "title": "Teknolojilerimiz",
+    "lead": "Resmî web sitemizde yer alan ve projelerimizde kullandığımız teknoloji yığını.",
+    "groups": {
+      "frontend": "Arayüz",
+      "data": "Veri ve Yapay Zekâ",
+      "infra": "Altyapı"
+    }
+  },
+  "social": {
+    "title": "Resmî Sosyal Medya ve Dijital Profiller",
+    "lead": "Yalnızca doğrulanmış resmî CYLOGIC SOFTWARE hesapları listelenmiştir.",
+    "visit": "Profili aç",
+    "verified": "Doğrulanmış resmî hesap"
+  },
+  "contact": {
+    "title": "İletişim ve Resmî Web Sitesi",
+    "lead": "Projeniz hakkında konuşmak için resmî kanallarımızdan bize ulaşın.",
+    "website": "Resmî web sitesi",
+    "email": "E-posta",
+    "location": "Konum",
+    "locationValue": "Gazimağusa, Kuzey Kıbrıs",
+    "form": "İletişim formu",
+    "formCta": "İletişim sayfasına git"
+  },
+  "footer": {
+    "tagline": "Yazılım, yapay zekâ ve dijital dönüşüm alanında teknoloji ortağınız.",
+    "hub": "Bu sayfa, resmî web sitemizi tamamlayan dijital kimlik merkezidir.",
+    "rights": "Tüm hakları saklıdır.",
+    "source": "GitHub deposu"
+  }
+}

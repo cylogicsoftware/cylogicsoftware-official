@@ -1,0 +1,116 @@
+{
+  "lang": "en",
+  "locale": "en_US",
+  "dir": "ltr",
+  "name": "English",
+  "short": "EN",
+  "path": "en/",
+  "mainSite": "https://www.cylogicsoftware.com/en",
+  "meta": {
+    "title": "CYLOGIC SOFTWARE | Official Digital Identity Hub",
+    "description": "The official digital identity hub of Cy Logic Software: AI solutions, enterprise ERP, custom software development, business automation and IT infrastructure. Famagusta, Northern Cyprus.",
+    "ogAlt": "CYLOGIC SOFTWARE logo"
+  },
+  "ui": {
+    "skip": "Skip to content",
+    "menu": "Menu",
+    "language": "Select language",
+    "newTab": "opens in a new tab",
+    "backToTop": "Back to top"
+  },
+  "nav": {
+    "about": "About",
+    "services": "Services",
+    "tech": "Technologies",
+    "social": "Official Profiles",
+    "contact": "Contact",
+    "website": "Website"
+  },
+  "hero": {
+    "eyebrow": "Official Digital Identity Hub",
+    "title": "Software, AI and digital transformation for your business",
+    "lead": "Cy Logic Software is a Famagusta-based technology company building custom software, enterprise ERP systems, AI solutions and secure IT infrastructure for businesses in Northern Cyprus and Türkiye.",
+    "cta": "Visit our official website",
+    "cta2": "Explore our services",
+    "badges": ["Artificial Intelligence", "Enterprise ERP", "Custom Software", "IT Infrastructure"]
+  },
+  "about": {
+    "title": "About Us",
+    "lead": "More than a web agency: a technology partner covering software, automation and digital transformation end to end.",
+    "p1": "Cy Logic Software designs solutions that bring a company's finance, operations, people and customer processes together on a single digital backbone. Every project starts with understanding how the business actually works, so the systems we build are tailored, scalable and built to last.",
+    "p2": "By combining modern web technologies, secure infrastructure and AI that can run on-premises, we help businesses keep control of their data and make faster, better-informed decisions.",
+    "points": [
+      { "title": "Built around your business", "text": "Software designed for your processes rather than forced into a template." },
+      { "title": "Security by design", "text": "Secure development practices, backups and monitoring as standard." },
+      { "title": "End-to-end delivery", "text": "One partner from analysis and launch to integration and infrastructure." }
+    ]
+  },
+  "services": {
+    "title": "Our Services",
+    "lead": "Specialist solutions for every stage of your digital journey.",
+    "more": "Details on our website",
+    "items": [
+      {
+        "id": "ai",
+        "title": "Artificial Intelligence",
+        "desc": "We integrate AI into your workflows in a way that is secure and measurable.",
+        "list": ["AI-powered business solutions", "AI integration", "AI assistants & agents", "Local LLM and RAG solutions", "AI reporting & data analysis"]
+      },
+      {
+        "id": "erp",
+        "title": "ERP & Enterprise Software",
+        "desc": "Enterprise systems that run finance, accounting, inventory and HR in one place.",
+        "list": ["Custom ERP development", "Financial management systems", "Accounting & reporting solutions", "Inventory & stock management", "HR and time & attendance management", "CRM and procurement workflows"]
+      },
+      {
+        "id": "software",
+        "title": "Custom Software Development",
+        "desc": "Modern, scalable web, mobile and SaaS platforms built for the way you work.",
+        "list": ["Enterprise web applications", "React & TypeScript applications", "Database-driven business systems", "Web, mobile and SaaS platforms", "B2B and custom business platforms"]
+      },
+      {
+        "id": "automation",
+        "title": "Business Automation & Integration",
+        "desc": "We automate repetitive work and connect the systems your business relies on.",
+        "list": ["Business process automation", "Intelligent business automation", "API integrations", "System integration", "Dashboards & business intelligence"]
+      },
+      {
+        "id": "it",
+        "title": "IT & Digital Transformation",
+        "desc": "Secure, monitored and backed-up infrastructure that supports your digital growth.",
+        "list": ["IT infrastructure solutions", "Server & cloud infrastructure", "Cloud & infrastructure management", "Backup, monitoring & cybersecurity", "Business digitalization"]
+      }
+    ]
+  },
+  "tech": {
+    "title": "Our Technologies",
+    "lead": "The technology stack listed on our official website and used across our projects.",
+    "groups": {
+      "frontend": "Frontend",
+      "data": "Data & AI",
+      "infra": "Infrastructure"
+    }
+  },
+  "social": {
+    "title": "Official Social Media & Digital Profiles",
+    "lead": "Only verified official CYLOGIC SOFTWARE accounts are listed here.",
+    "visit": "Open profile",
+    "verified": "Verified official account"
+  },
+  "contact": {
+    "title": "Contact & Official Website",
+    "lead": "Reach us through our official channels to talk about your project.",
+    "website": "Official website",
+    "email": "Email",
+    "location": "Location",
+    "locationValue": "Famagusta, Northern Cyprus",
+    "form": "Contact form",
+    "formCta": "Go to the contact page"
+  },
+  "footer": {
+    "tagline": "Your technology partner for software, AI and digital transformation.",
+    "hub": "This page is a digital identity hub that complements our official website.",
+    "rights": "All rights reserved.",
+    "source": "GitHub repository"
+  }
+}
